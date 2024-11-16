@@ -98,7 +98,7 @@ function Projects() {
     </a>
                     </div>
                     <div className="col-xl-4 col-lg-3 col-12 my-4">
-    <a href="/">
+    <a href="https://amrr-maherr.github.io/Commerce-Corner/">
         <div className="card text-bg-dark">
             <img src={Commerc} className="card-img" alt="Project Image" />
             <div className="card-img-overlay">
